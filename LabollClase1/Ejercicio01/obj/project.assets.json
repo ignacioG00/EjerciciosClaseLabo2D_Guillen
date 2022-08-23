@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\LabollClase1\\Ejercicio01\\Ejercicio01.csproj",
+      "projectUniqueName": "C:\\Escritorio\\UTN\\Repositorios\\EjerciciosClaseLabo2D_Guillen\\LabollClase1\\Ejercicio01\\Ejercicio01.csproj",
       "projectName": "Ejercicio01",
-      "projectPath": "C:\\Users\\ignac\\source\\repos\\LabollClase1\\Ejercicio01\\Ejercicio01.csproj",
+      "projectPath": "C:\\Escritorio\\UTN\\Repositorios\\EjerciciosClaseLabo2D_Guillen\\LabollClase1\\Ejercicio01\\Ejercicio01.csproj",
       "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ignac\\source\\repos\\LabollClase1\\Ejercicio01\\obj\\",
+      "outputPath": "C:\\Escritorio\\UTN\\Repositorios\\EjerciciosClaseLabo2D_Guillen\\LabollClase1\\Ejercicio01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
