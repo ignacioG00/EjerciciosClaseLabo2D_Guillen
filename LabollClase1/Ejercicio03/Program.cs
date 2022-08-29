@@ -8,7 +8,6 @@ namespace Ejercicio03
         {
             int numIngresado;
             
-            int numerosPrimosContados = 0;
             int contadorDeDivisores = 0;
             string respuesta;
 
