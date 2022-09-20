@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.32413.511
+VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase1", "Clase1", "{8294F6A5-80AB-4B96-BC29-128948110FFE}"
 EndProject
@@ -13,21 +13,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio03", "Ejercicio03\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase2", "Clase2", "{4F6D5E5B-B88F-4051-ABD0-59405643CD8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio01_C2", "Ejercicio01_C2\Ejercicio01_C2.csproj", "{23241755-6755-493E-8D80-383DA105CFAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio01_C2", "Ejercicio01_C2\Ejercicio01_C2.csproj", "{23241755-6755-493E-8D80-383DA105CFAB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Biblioteca_De_Clases", "Biblioteca_De_Clases", "{38362379-6B34-4E6D-B652-EE78BDE61941}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca_De_Clases", "Biblioteca_De_Clases\Biblioteca_De_Clases.csproj", "{8E848097-D8C1-4775-B081-544C5BBDA12C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca_De_Clases", "Biblioteca_De_Clases\Biblioteca_De_Clases.csproj", "{8E848097-D8C1-4775-B081-544C5BBDA12C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio03_C2", "Ejercicio03_C2\Ejercicio03_C2.csproj", "{89C5A5B8-D551-4EA5-8140-C9745B9EEC73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio03_C2", "Ejercicio03_C2\Ejercicio03_C2.csproj", "{89C5A5B8-D551-4EA5-8140-C9745B9EEC73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio02_C2", "Ejercicio02_C2\Ejercicio02_C2.csproj", "{E1C0F747-767A-4928-A982-C8A89E2D13C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio02_C2", "Ejercicio02_C2\Ejercicio02_C2.csproj", "{E1C0F747-767A-4928-A982-C8A89E2D13C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio04_Calculadora", "Ejercicio04_Calculadora\Ejercicio04_Calculadora.csproj", "{7CA90C86-5FCA-426C-A3FE-CD9DA53EDF9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio04_Calculadora", "Ejercicio04_Calculadora\Ejercicio04_Calculadora.csproj", "{7CA90C86-5FCA-426C-A3FE-CD9DA53EDF9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio05_LasTablas", "Ejercicio05_LasTablas\Ejercicio05_LasTablas.csproj", "{005384FA-76E8-48E5-9280-DCD21F1FB7EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio05_LasTablas", "Ejercicio05_LasTablas\Ejercicio05_LasTablas.csproj", "{005384FA-76E8-48E5-9280-DCD21F1FB7EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio06_CalculadoraDeAreas", "Ejercicio06_CalculadoraDeAreas\Ejercicio06_CalculadoraDeAreas.csproj", "{DBCABAE5-FCD7-42C3-9F27-D88CB2E35ED6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio06_CalculadoraDeAreas", "Ejercicio06_CalculadoraDeAreas\Ejercicio06_CalculadoraDeAreas.csproj", "{DBCABAE5-FCD7-42C3-9F27-D88CB2E35ED6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio09_CalcularUnFactorial", "Ejercicio09_CalcularUnFactorial\Ejercicio09_CalcularUnFactorial.csproj", "{15BB2DBA-97F9-46C7-9AD3-82696FA83441}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase5", "Clase5", "{09F38056-9013-403B-94D3-AB3BA4251FD2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio01_C5", "Ejercicio01_C5\Ejercicio01_C5.csproj", "{99E8C5F5-7AB7-42F3-8F1D-F8387BF4C739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio01_HolaWinForm", "Ejercicio01_HolaWinForm\Ejercicio01_HolaWinForm.csproj", "{478E606D-81D4-45C9-A8B6-5A9386DDE6A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +83,18 @@ Global
 		{DBCABAE5-FCD7-42C3-9F27-D88CB2E35ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBCABAE5-FCD7-42C3-9F27-D88CB2E35ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBCABAE5-FCD7-42C3-9F27-D88CB2E35ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BB2DBA-97F9-46C7-9AD3-82696FA83441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BB2DBA-97F9-46C7-9AD3-82696FA83441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BB2DBA-97F9-46C7-9AD3-82696FA83441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BB2DBA-97F9-46C7-9AD3-82696FA83441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E8C5F5-7AB7-42F3-8F1D-F8387BF4C739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E8C5F5-7AB7-42F3-8F1D-F8387BF4C739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E8C5F5-7AB7-42F3-8F1D-F8387BF4C739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E8C5F5-7AB7-42F3-8F1D-F8387BF4C739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478E606D-81D4-45C9-A8B6-5A9386DDE6A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478E606D-81D4-45C9-A8B6-5A9386DDE6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478E606D-81D4-45C9-A8B6-5A9386DDE6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478E606D-81D4-45C9-A8B6-5A9386DDE6A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +110,9 @@ Global
 		{7CA90C86-5FCA-426C-A3FE-CD9DA53EDF9A} = {4F6D5E5B-B88F-4051-ABD0-59405643CD8A}
 		{005384FA-76E8-48E5-9280-DCD21F1FB7EB} = {4F6D5E5B-B88F-4051-ABD0-59405643CD8A}
 		{DBCABAE5-FCD7-42C3-9F27-D88CB2E35ED6} = {4F6D5E5B-B88F-4051-ABD0-59405643CD8A}
+		{15BB2DBA-97F9-46C7-9AD3-82696FA83441} = {4F6D5E5B-B88F-4051-ABD0-59405643CD8A}
+		{99E8C5F5-7AB7-42F3-8F1D-F8387BF4C739} = {09F38056-9013-403B-94D3-AB3BA4251FD2}
+		{478E606D-81D4-45C9-A8B6-5A9386DDE6A8} = {09F38056-9013-403B-94D3-AB3BA4251FD2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D250B00A-B509-492E-B55C-4E64AFC6F9F1}

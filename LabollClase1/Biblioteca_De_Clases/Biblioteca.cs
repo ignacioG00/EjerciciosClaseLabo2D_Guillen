@@ -5,11 +5,20 @@ namespace Biblioteca_De_Clases
 {
     public class Validador
     {
+        public static bool EsNumerico(string numero) 
+        {
+            int retorno;
+            return (int.TryParse(numero, out retorno));
+        }
+
+
         public static bool ValidarRespuesta(string respuesta) 
         {
             respuesta = respuesta.ToLower();
             return (respuesta == "s");
         }
+
+
     }
 
     public class Conversor
@@ -125,5 +134,7 @@ namespace Biblioteca_De_Clases
             return tabla;
         }
     }
+
+
 
 }
